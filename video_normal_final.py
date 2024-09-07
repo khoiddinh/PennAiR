@@ -52,7 +52,7 @@ def find_shapes(image: np.array):
 # Creating a VideoCapture object to read the video
 vid = cv2.VideoCapture('PennAir_2024_App_Dynamic.mp4')
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
-out = cv2.VideoWriter('final1.mp4',fourcc, 20, (1920,1080))
+out = cv2.VideoWriter('processed_video.mp4',fourcc, 20, (1920,1080))
 
 i = 0  # frame counter
 # Read each frame
