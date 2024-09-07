@@ -13,7 +13,7 @@ I did some additional hyperparameter tuning to make the processing on the video 
 
 Solutions:
 
-Image: https://drive.google.com/file/d/18Alsh0HAh5eIyVRYHlICDZsxSKFFAIel/view?usp=sharing
+Image: https://drive.google.com/file/d/18Alsh0HAh5eIyVRYHlICDZsxSKFFAIel/view?usp=sharing \
 Video for Part 2 (too large to embed): https://drive.google.com/file/d/178CoHF73xEnsujNrhqgarvcU5tTsyoK9/view?usp=sharing
 
 
