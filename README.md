@@ -7,7 +7,7 @@ Running Code:
 4) Outputs will be written in the same folder
 
 Part 1 (static image) Answers:
-My approach for the static image essentially consistented of doing preprocessing on the image (blur), and then finding the average color of the image. I then subtracted this average color from the original image. I then ran contouring to find the borders and labeled them on the image.
+My approach for the static image essentially consistented of doing preprocessing on the image (blur), and then finding the average color of the image. I then subtracted this average color from the original image. I then ran contouring to find the borders and labeled them on the image. \
 Part 2 (video) Answers:
 I did some additional hyperparameter tuning to make the processing on the video work better. I used the area of the contour to detect any unwanted noise so that it doesn't appear as a shape. Originally, I used a lot of RGB seperation and morphology, but I found that these algorithms did not significantly impact the performance of the algorithm results-wise but increased the runtime.
 
